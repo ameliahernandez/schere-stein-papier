@@ -1,5 +1,5 @@
 {
-    "name": "Schere Stein Papier",
+    "name": "Schere Stein Papier_ScoreTracking",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -14,6 +14,10 @@
     "testFiles": [
         "test.ts"
     ],
+    "targetVersions": {
+        "target": "6.0.25",
+        "targetId": "microbit"
+    },
     "supportedTargets": [
         "microbit"
     ],
